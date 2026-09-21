@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 header{
-    background-image: url(/images/bg-header-desktop.png);
+    background-image: url(./images/bg-header-desktop.png);
     height: 90vh;
     background-position: center;
     background-size: cover;
