@@ -5,7 +5,8 @@
 }
 header{
     background-image: url(./images/bg-header-desktop.png);
-    height: 90vh;
+  background-size: 100% auto;      
+  min-height: 80vh;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
