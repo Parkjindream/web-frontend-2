@@ -3,14 +3,15 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 header{
-    background-image: url(./images/bg-header-desktop.png);
+   background-image: url('./images/bg-header-desktop.png');
+  background-repeat: no-repeat;
+  background-position: top center; 
   background-size: 100% auto;      
   min-height: 80vh;
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
 }
+
 .container{
     width: 1132px;
     margin: 0 auto;
